@@ -24,14 +24,15 @@
   position: absolute;
   display: none;
   top: 0;
-  left: 98%;
+  left: 101%;
   min-width: 160px;
   // min-height: 280px;
-  background: #f7f7f7;
+  background: rgba(255,255,255,0.7);
   z-index: 9999;
   padding: 4px 0;
-  border: solid 1px #aaa;
+  border: solid 1px #ccc9;
   animation: fadein 600ms ease-in-out;
+  border-radius:8px;
 }
 
 .menuopt{
